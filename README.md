@@ -41,6 +41,14 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 | 19 | Tendências em Desenvolvimento Front-end | ⏳ Em breve |
 | 20 | Revisão Geral e Encerramento da Disciplina | ⏳ Em breve |---
 
+## 📋 Atividades 
+
+| Aula | Atividade | Deploy | Status |
+| :--: | --------------------------------------------------------- | :--: |:---:|
+| 01 | [Vanilla JS](https://github.com/GustavoTucci/atividade-vanilla-js) | [Clique para Acessar](https://atividade-vanilla-js.vercel.app/) | ✅ | 
+| 02 | Em breve | ... | ⏳ |
+| ... | ... | ... | ⏳ |
+
 ## 🛠 Tecnologias Estudadas
 
 Ao longo da disciplina serão abordadas tecnologias como:

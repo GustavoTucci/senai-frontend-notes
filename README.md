@@ -22,7 +22,7 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 | :--: | ------------------------------------------------------- | :--: |
 | 01 | Apresentação da Disciplina e Ecossistema Front-end | ✅ |
 | 02 | Configuração do Ambiente de Desenvolvimento | ✅ |
-| 03 | Responsividade e Ferramentas do Desenvolvedor | ⏳ Em breve |
+| 03 | Responsividade e Ferramentas do Desenvolvedor | ✅ |
 | 04 | Frameworks CSS | ⏳ Em breve |
 | 05 | Projeto Integrador (PII) – Planejamento da Interface | ⏳ Em breve |
 | 06 | Introdução aos Frameworks Front-end | ⏳ Em breve |
@@ -46,8 +46,12 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 | Aula | Atividade | Deploy | Status |
 | :--: | --------------------------------------------------------- | :--: |:---:|
 | 01 | [Vanilla JS](https://github.com/GustavoTucci/atividade-vanilla-js) | [Clique para Acessar](https://atividade-vanilla-js.vercel.app/) | ✅ | 
-| 02 | [React First Project](https://github.com/GustavoTucci/react-first-project) | [Clique para Acessar](https://react-first-project-mrs68fgm3-tucciz.vercel.app/) | ✅ |
-| 03 | Em breve | ... | ⏳ |
+| 02 | [Gerenciador de Gastos - React Project](https://github.com/GustavoTucci/gerenciador-de-gastos-react-project) | [Clique para Acessar](https://react-first-project-mrs68fgm3-tucciz.vercel.app/) | ✅ |
+| 03 | [Gira Ganha - Agular Project](https://github.com/GustavoTucci/gira-ganha-app-angular) | ⏳ | ✅ |
+| 03 | [Taskroom - Vue Project](https://github.com/GustavoTucci/taskroom-vue-project) | ⏳ | ✅ |
+| 03 | [DoaBem - Next.js Project](https://github.com/GustavoTucci/doabem-project-nextjs) | ⏳ | ✅ |
+| 03 | Em breve | ⏳ | ✅ |
+| 04 | Em breve | ... | ⏳ |
 | ... | ... | ... | ⏳ |
 
 ## 🛠 Tecnologias Estudadas

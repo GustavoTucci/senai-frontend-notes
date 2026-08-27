@@ -51,7 +51,10 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 | 03 | [Taskroom - Vue Project](https://github.com/GustavoTucci/taskroom-vue-project) | ⏳ | ✅ |
 | 03 | [DoaBem - Next.js Project](https://github.com/GustavoTucci/doabem-project-nextjs) | ⏳ | ✅ |
 | 03 | [LandingPage - Vue Project](https://github.com/GustavoTucci/landingPage-vue) | ⏳ | ✅ |
-| 04 | Em breve | ... | ⏳ |
+| 04 | [API Project - Clonar 10 Repositórios](https://github.com/GustavoTucci/pesquisa-APIs) | ⏳ | ✅ |
+| 04 | [Date API Express Project - Vanilla JS (Front-End)](https://github.com/GustavoTucci/api-express-project-frontend) | [Clique para Acessar](https://api-express-project-frontend-o95a6gcff-tucciz.vercel.app/) | ✅ |
+| 04 | [Date API Express Project - Node e JS (Back-End)](https://github.com/GustavoTucci/api-express-project-backend) | [Clique para Acessar](https://api-express-project-backend.onrender.com/) | ✅ |
+| 05 | Em breve | ... | ⏳ |
 | ... | ... | ... | ⏳ |
 
 ## 🛠 Tecnologias Estudadas

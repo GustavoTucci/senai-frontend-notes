@@ -23,7 +23,7 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 | 01 | Apresentação da Disciplina e Ecossistema Front-end | ✅ |
 | 02 | Configuração do Ambiente de Desenvolvimento | ✅ |
 | 03 | Responsividade e Ferramentas do Desenvolvedor | ✅ |
-| 04 | Frameworks CSS | ⏳ Em breve |
+| 04 | Frameworks CSS | ✅ |
 | 05 | Projeto Integrador (PII) – Planejamento da Interface | ⏳ Em breve |
 | 06 | Introdução aos Frameworks Front-end | ⏳ Em breve |
 | 07 | Estrutura de um Projeto Front-end | ⏳ Em breve |
@@ -50,7 +50,7 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 | 03 | [Gira Ganha - Agular Project](https://github.com/GustavoTucci/gira-ganha-app-angular) | ⏳ | ✅ |
 | 03 | [Taskroom - Vue Project](https://github.com/GustavoTucci/taskroom-vue-project) | ⏳ | ✅ |
 | 03 | [DoaBem - Next.js Project](https://github.com/GustavoTucci/doabem-project-nextjs) | ⏳ | ✅ |
-| 03 | Em breve | ⏳ | ✅ |
+| 03 | [LandingPage - Vue Project](https://github.com/GustavoTucci/landingPage-vue) | ⏳ | ✅ |
 | 04 | Em breve | ... | ⏳ |
 | ... | ... | ... | ⏳ |
 

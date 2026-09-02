@@ -16,31 +16,6 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 
 ---
 
-## 🗓️ Conteúdo das Aulas
-
-| Aula | Conteúdo | Status |
-| :--: | ------------------------------------------------------- | :--: |
-| 01 | Apresentação da Disciplina e Ecossistema Front-end | ✅ |
-| 02 | Configuração do Ambiente de Desenvolvimento | ✅ |
-| 03 | Responsividade e Ferramentas do Desenvolvedor | ✅ |
-| 04 | Frameworks CSS | ✅ |
-| 05 | Projeto Integrador (PII) – Planejamento da Interface | ⏳ Em breve |
-| 06 | Introdução aos Frameworks Front-end | ⏳ Em breve |
-| 07 | Estrutura de um Projeto Front-end | ⏳ Em breve |
-| 08 | Componentes e Propriedades | ⏳ Em breve |
-| 09 | Projeto Integrador (PII) – Desenvolvimento da Interface | ⏳ Em breve |
-| 10 | Estados e Eventos | ⏳ Em breve |
-| 11 | Rotas e Navegação | ⏳ Em breve |
-| 12 | Autoavaliação Institucional | ⏳ Em breve |
-| 13 | Projeto Integrador (PII) – Integração dos Componentes | ⏳ Em breve |
-| 14 | Boas Práticas no Desenvolvimento Front-end | ⏳ Em breve |
-| 15 | Avaliação Integradora | ⏳ Em breve |
-| 16 | Publicação e Deploy de Aplicações | ⏳ Em breve |
-| 17 | Preparação das Apresentações do Projeto | ⏳ Em breve |
-| 18 | Bancas do Projeto Integrador e Autoavaliação Discente | ⏳ Em breve |
-| 19 | Tendências em Desenvolvimento Front-end | ⏳ Em breve |
-| 20 | Revisão Geral e Encerramento da Disciplina | ⏳ Em breve |---
-
 ## 📋 Atividades 
 
 | Aula | Atividade | Deploy | Status |

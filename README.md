@@ -20,15 +20,15 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 
 | Aula | Atividade | Deploy | Status |
 | :--: | --------------------------------------------------------- | :--: |:---:|
-| 01 | [Vanilla JS](https://github.com/GustavoTucci/atividade-vanilla-js) | [Clique para Acessar](https://atividade-vanilla-js.vercel.app/) | ✅ | 
-| 02 | [Gerenciador de Gastos - React Project](https://github.com/GustavoTucci/gerenciador-de-gastos-react-project) | [Clique para Acessar](https://react-first-project-mrs68fgm3-tucciz.vercel.app/) | ✅ |
+| 01 | [Vanilla JS](https://github.com/GustavoTucci/atividade-vanilla-js) | [Acessar Projeto](https://atividade-vanilla-js.vercel.app/) | ✅ | 
+| 02 | [Gerenciador de Gastos - React Project](https://github.com/GustavoTucci/gerenciador-de-gastos-react-project) | [Acessar Projeto](https://react-first-project-mrs68fgm3-tucciz.vercel.app/) | ✅ |
 | 03 | [Gira Ganha - Agular Project](https://github.com/GustavoTucci/gira-ganha-app-angular) | ⏳ | ✅ |
 | 03 | [Taskroom - Vue Project](https://github.com/GustavoTucci/taskroom-vue-project) | ⏳ | ✅ |
 | 03 | [DoaBem - Next.js Project](https://github.com/GustavoTucci/doabem-project-nextjs) | ⏳ | ✅ |
-| 03 | [LandingPage - Vue Project](https://github.com/GustavoTucci/landingPage-vue) | ⏳ | ✅ |
+| 03 | [LandingPage - Vue Project](https://github.com/GustavoTucci/landingPage-vue) | [Acessar Projeto](https://landing-page-vue-jet.vercel.app/) | ✅ |
 | 04 | [API Project - Clonar 10 Repositórios](https://github.com/GustavoTucci/pesquisa-APIs) | ⏳ | ✅ |
-| 04 | [Date API Express Project - Vanilla JS (Front-End)](https://github.com/GustavoTucci/api-express-project-frontend) | [Clique para Acessar](https://api-express-project-frontend-o95a6gcff-tucciz.vercel.app/) | ✅ |
-| 04 | [Date API Express Project - Node e JS (Back-End)](https://github.com/GustavoTucci/api-express-project-backend) | [Clique para Acessar](https://api-express-project-backend.onrender.com/) | ✅ |
+| 04 | [Date API Express Project - Vanilla JS (Front-End)](https://github.com/GustavoTucci/api-express-project-frontend) | [Acessar Projeto](https://api-express-project-frontend-o95a6gcff-tucciz.vercel.app/) | ✅ |
+| 04 | [Date API Express Project - Node e JS (Back-End)](https://github.com/GustavoTucci/api-express-project-backend) | [Acessar Projeto](https://api-express-project-backend.onrender.com/) | ✅ |
 | 05 | Em breve | ... | ⏳ |
 | ... | ... | ... | ⏳ |
 

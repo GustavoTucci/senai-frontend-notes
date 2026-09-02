@@ -22,7 +22,7 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 | :--: | --------------------------------------------------------- | :--: |:---:|
 | 01 | [Vanilla JS](https://github.com/GustavoTucci/atividade-vanilla-js) | [Acessar Projeto](https://atividade-vanilla-js.vercel.app/) | ✅ | 
 | 02 | [Gerenciador de Gastos - React Project](https://github.com/GustavoTucci/gerenciador-de-gastos-react-project) | [Acessar Projeto](https://react-first-project-mrs68fgm3-tucciz.vercel.app/) | ✅ |
-| 03 | [Gira Ganha - Agular Project](https://github.com/GustavoTucci/gira-ganha-app-angular) | ⏳ | ✅ |
+| 03 | [Gira Ganha - Agular Project](https://github.com/GustavoTucci/gira-ganha-app-angular) | [Acessar Projeto](https://gira-ganha-app-angular.vercel.app/) | ✅ |
 | 03 | [Taskroom - Vue Project](https://github.com/GustavoTucci/taskroom-vue-project) | ⏳ | ✅ |
 | 03 | [DoaBem - Next.js Project](https://github.com/GustavoTucci/doabem-project-nextjs) | ⏳ | ✅ |
 | 03 | [LandingPage - Vue Project](https://github.com/GustavoTucci/landingPage-vue) | [Acessar Projeto](https://landing-page-vue-jet.vercel.app/) | ✅ |

@@ -24,7 +24,7 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 | 02 | [Gerenciador de Gastos - React Project](https://github.com/GustavoTucci/gerenciador-de-gastos-react-project) | [Acessar Projeto](https://react-first-project-mrs68fgm3-tucciz.vercel.app/) | ✅ |
 | 03 | [Gira Ganha - Agular Project](https://github.com/GustavoTucci/gira-ganha-app-angular) | [Acessar Projeto](https://gira-ganha-app-angular.vercel.app/) | ✅ |
 | 03 | [Taskroom - Vue Project](https://github.com/GustavoTucci/taskroom-vue-project) | ⏳ | ✅ |
-| 03 | [DoaBem - Next.js Project](https://github.com/GustavoTucci/doabem-project-nextjs) | ⏳ | ✅ |
+| 03 | [DoaBem - Next.js Project](https://github.com/GustavoTucci/doabem-project-nextjs) | [Acessar Projeto](https://doabem-project-nextjs.vercel.app/) | ✅ |
 | 03 | [LandingPage - Vue Project](https://github.com/GustavoTucci/landingPage-vue) | [Acessar Projeto](https://landing-page-vue-jet.vercel.app/) | ✅ |
 | 04 | [API Project - Clonar 10 Repositórios](https://github.com/GustavoTucci/pesquisa-APIs) | ⏳ | ✅ |
 | 04 | [Date API Express Project - Vanilla JS (Front-End)](https://github.com/GustavoTucci/api-express-project-frontend) | [Acessar Projeto](https://api-express-project-frontend-o95a6gcff-tucciz.vercel.app/) | ✅ |

@@ -18,7 +18,7 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 
 ## 📋 Atividades 
 
-| Aula | Atividade | Deploy | Status |
+| Aula | Repositório da Atividade | Deploy | Status |
 | :--: | --------------------------------------------------------- | :--: |:---:|
 | 01 | [Vanilla JS](https://github.com/GustavoTucci/atividade-vanilla-js) | [Acessar Projeto](https://atividade-vanilla-js.vercel.app/) | ✅ | 
 | 02 | [Gerenciador de Gastos - React Project](https://github.com/GustavoTucci/gerenciador-de-gastos-react-project) | [Acessar Projeto](https://react-first-project-mrs68fgm3-tucciz.vercel.app/) | ✅ |

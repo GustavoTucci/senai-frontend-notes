@@ -36,7 +36,8 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 | 07 | [Projeto Tailwind CS)](https://github.com/GustavoTucci/projeto-tailwind) | [Acessar Projeto](https://projeto-tailwind-theta.vercel.app/) | ✅ |
 | PROVA | [Hackaton - HemoVida](https://github.com/GustavoTucci/hackathon-frontend) | [Acessar Projeto](https://hackathon-frontend-tucciz.vercel.app/) | ✅ |
 
-| 08 | Em breve | ... | ⏳ |
+| 08 | [Componestes React](https://github.com/GustavoTucci/atividade-aula8) | [Acessar Projeto](https://atividade-aula8.vercel.app/) | ⏳ |
+| 09 | ... | ... | ⏳ |
 | ... | ... | ... | ⏳ |
 
 ## 🛠 Tecnologias Estudadas

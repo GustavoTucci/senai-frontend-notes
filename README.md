@@ -35,9 +35,9 @@ O objetivo é centralizar todo o conteúdo da disciplina em um único lugar, fac
 | 07 | [Projeto CSS](https://github.com/GustavoTucci/projeto-css) | [Acessar Projeto](https://projeto-css-tau.vercel.app/) | ✅ |
 | 07 | [Projeto Tailwind CS)](https://github.com/GustavoTucci/projeto-tailwind) | [Acessar Projeto](https://projeto-tailwind-theta.vercel.app/) | ✅ |
 | PROVA | [Hackaton - HemoVida](https://github.com/GustavoTucci/hackathon-frontend) | [Acessar Projeto](https://hackathon-frontend-tucciz.vercel.app/) | ✅ |
-| 08 | [Componestes React - Feira da Vila](https://github.com/GustavoTucci/feira-da-vila) | [Acessar Projeto](https://feira-da-vila.vercel.app/) | ✅ |
-| 08 | [Componestes React - Site Estudos](https://github.com/GustavoTucci/site-estudos-aula8) | [Acessar Projeto](https://atividade-aula8.vercel.app/) | ✅ |
-| 09 | ... | ... | ⏳ |
+| 08 - 09 | [Componestes React - Feira da Vila](https://github.com/GustavoTucci/feira-da-vila) | [Acessar Projeto](https://feira-da-vila.vercel.app/) | ✅ |
+| 08 - 09 | [Componestes React - Site Estudos](https://github.com/GustavoTucci/site-estudos-aula8) | [Acessar Projeto](https://atividade-aula8.vercel.app/) | ✅ |
+| 10 | ... | ... | ⏳ |
 | ... | ... | ... | ⏳ |
 
 ## 🛠 Tecnologias Estudadas
